@@ -1,1 +1,1 @@
-# Big-Data-Solution-5-Snowflake-Data-Mart-Aggregate
+# Big-Data-Solution-5-Snowflake-Data-Mart-Aggregates
