@@ -400,8 +400,8 @@ WHEN NOT MATCHED THEN
 
 
  /********************************************************************
- ** Schema Update Manually
- ********************************************************************/
+  ** Schema Update Manually
+  ********************************************************************/
 USE SCHEMA ASL._METADATA;
 /*
 CALL CTRL_TASK_SCHEDULER('DIM', 'DEBUG');
